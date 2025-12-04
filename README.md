@@ -1,5 +1,3 @@
----
-
 ##  사용 언어 및 환경
 - **Java 17+**  
 - **JavaScript (Node.js)**  
