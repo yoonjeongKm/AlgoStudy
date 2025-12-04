@@ -8,7 +8,7 @@
 
 ##  문제풀이 규칙
 - 파일명 규칙 예시  
-  - Java → `boj/1000.java`  
+  - Java → `boj/BOJ_1000.java`  
   - JavaScript → `boj/1000.js`
 - 한 문제당 하나의 파일  
 - 가능한 가독성 높은 코드 유지  
